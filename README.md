@@ -3,9 +3,10 @@
         <img src="https://github.com/starboy-inc.png" alt="Starboy Logo" height=128>
     </a>
     <h1>Starboy Blogs</h1>
-    <p>Built w/ <a href="https://nextjs.org">Next.js</a> + <a href="https://vercel.com">Vercel</a>.</p>
-    
+    A Starboy's Blog.
 </div>
+
+&nbsp;
 
 ## Domains
 
@@ -21,3 +22,9 @@
 &nbsp;
 
 Until Next Time...✌️
+
+&nbsp;
+
+<div align="center">
+<p>Built w/ <a href="https://nextjs.org">Next.js</a> + <a href="https://vercel.com">Vercel</a>.</p>
+</div>
