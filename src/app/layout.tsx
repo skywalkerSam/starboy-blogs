@@ -5,7 +5,8 @@ import Footer from "~/components/footer";
 // import { Ubuntu } from "next/font/google";
 // import { Geist } from "next/font/google";
 import { Paprika } from "next/font/google";
-import { CMS_NAME, HOME_OG_IMAGE_URL } from "lib/constants";
+import { HOME_OG_IMAGE_URL } from "lib/constants";
+// import { CMS_NAME} from "lib/constants";
 
 // const ubuntu = Ubuntu({
 //   weight: ["400", "700"],
