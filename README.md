@@ -2,8 +2,7 @@
     <a href="https://skywalkerSam.dev">
         <img src="https://github.com/starboy-inc.png" alt="Starboy Logo" height=128>
     </a>
-    <h1>Starboy Blogs</h1>
-    A Starboy's Blog.
+    <h1>A Starboy's Blog.</h1>
 </div>
 
 &nbsp;
