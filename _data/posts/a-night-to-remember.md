@@ -34,4 +34,4 @@ What the fuck happened back there... i'm exhausted and will rest for now.
 
 &nbsp;
 
-Until next time...✌️
+Until Next Time...✌️
