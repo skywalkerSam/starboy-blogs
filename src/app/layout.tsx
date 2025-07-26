@@ -52,7 +52,9 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          <main>{children}</main>
+          <main className="bg-gradient-to-b from-transparent via-blue-400 to-transparent">
+            {children}
+          </main>
 
           <Footer></Footer>
         </ThemeProvider>
