@@ -12,6 +12,43 @@ ogImage:
 
 &nbsp;
 
+i see you, and i wish that i could help you, girl… but i,
+
+&nbsp;
+
+i wish i could make you smile even for just a while…
+
+&nbsp;
+
+i wish i could look into those tired set of eyes and say... hey! i'm right here…
+
+&nbsp;
+
+i wish i could hold your hand… but i,
+
+&nbsp;
+
+i wish i could be with you on those long & lonely nights…
+
+&nbsp;
+
+i wish i could take your sadness, and bury it deep within…
+
+&nbsp;
+
+i wish i could love you in a way that makes you feel whole again…
+
+&nbsp;
+
+i wish i could just give you it all… but i can’t.
+
+&nbsp;
+
+For i am just a stranger passing by...
+
+&nbsp;
+
+<!-- 
 i see you, and i wish that i could help you, girl, but i,
 
 i wish i could make you smile even for just a while,
@@ -26,17 +63,24 @@ i wish i could just take your sadness and bury it deep within myself,
 
 i wish i could love you in a way that makes you feel alive again,
 
-i wish i could just give you it all, but i can’t, for i am just a stranger passing by...
+i wish i could just give you it all, but i can’t, for i am just a stranger passing by... 
+-->
 
 &nbsp;
 
 ## Sources
 
+&nbsp;
+
 – Cover image [(**Source**)](https://images.nasa.gov/details/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o)
 
 &nbsp;
 
-Poetry is good. For it is in strange moments like these when the entire essence of existence comes alive...
+Poetry is good.
+
+&nbsp;
+
+For it is in strange moments like these when the entire essence of existence comes alive...
 
 &nbsp;
 
