@@ -48,26 +48,6 @@ For i am just a stranger passing by...
 
 &nbsp;
 
-<!-- 
-i see you, and i wish that i could help you, girl, but i,
-
-i wish i could make you smile even for just a while,
-
-i wish i could just look in those tired sets of eyes and say... hey! i'm right here,
-
-i wish i could hold your hand, but i,
-
-i wish i could be with you on those long and lonely nights,
-
-i wish i could just take your sadness and bury it deep within myself,
-
-i wish i could love you in a way that makes you feel alive again,
-
-i wish i could just give you it all, but i can’t, for i am just a stranger passing by... 
--->
-
-&nbsp;
-
 ## Sources
 
 &nbsp;
