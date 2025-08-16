@@ -6,6 +6,9 @@ import { Intro } from "../_components/intro";
 import { MoreStories } from "../_components/more-stories";
 import { getAllPosts } from "lib/api";
 
+// ISR - 60min
+export const revalidate = 3600;
+
 export default async function Index() {
   const allPosts = await getAllPosts();
 
