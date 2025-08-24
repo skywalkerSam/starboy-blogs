@@ -13,7 +13,9 @@ ogImage:
 &nbsp;
 
 What to do in this life is just...  
+
 Who knows what the future holds?  
+
 Another day went by as i sit here wondering...
 
 &nbsp;
