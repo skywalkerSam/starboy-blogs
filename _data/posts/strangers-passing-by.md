@@ -46,7 +46,7 @@ For i am just a stranger passing by...
 
 **Sources:**
 
-– Cover image [(**Source**)](https://images.nasa.gov/details/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o)
+– Cover image [(*Source*)](https://images.nasa.gov/details/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o)
 
 &nbsp;
 
