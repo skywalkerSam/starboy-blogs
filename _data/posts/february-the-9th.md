@@ -319,6 +319,10 @@ Life goes on,
 
 &nbsp;
 
+–––
+
+&nbsp;
+
 ## **Sources:**
 
 – Cover image ([*Source*](https://images.nasa.gov/details/PIA20057))  
