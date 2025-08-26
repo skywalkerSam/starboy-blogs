@@ -44,15 +44,26 @@ For i am just a stranger passing by...
 
 &nbsp;
 
-**Sources:**
-
-– Cover image [(*Source*)](https://images.nasa.gov/details/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o)
+–––
 
 &nbsp;
 
 For it is in strange moments like these when the entire essence of existence comes alive...
+
 Poetry is good.
 
 &nbsp;
 
+–––
+
+&nbsp;
+
+**Sources:**
+
+– Cover image [(_Source_)](https://images.nasa.gov/details/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o)
+
+&nbsp;
+
 Until Next Time... ✌️
+
+&nbsp;
