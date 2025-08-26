@@ -74,6 +74,20 @@ and everything will be okay...
 
 &nbsp;
 
+–––
+
+&nbsp;
+
+i was on the roof taking a walk and enjoying the view, and it just hit me like a wave of everything all at once – i was delirious. i almost cried writing the last section.
+
+Look at me, comforting myself with words i'd like to hear...
+
+&nbsp;
+
+–––
+
+&nbsp;
+
 **Sources:**
 
 – Cover image ([*Source*](https://images.nasa.gov/details/PIA04495))
