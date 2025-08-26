@@ -68,11 +68,15 @@ We long for some cosmic purpose, but unfortunately, none is evident. So yeah, in
 
 &nbsp;
 
-As a wise man once said, “i’ve seen a lot of beautiful things with a heavy heart.”
+As a poet once said, “i’ve seen a lot of beautiful things with a heavy heart.”
 
 &nbsp;
 
 Life goes on,
+
+&nbsp;
+
+–––
 
 &nbsp;
 
