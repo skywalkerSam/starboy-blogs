@@ -1,5 +1,5 @@
 ---
-title: "An Ordinary Human"
+title: "An Ordinary Human."
 excerpt: "Another day went by as i sit here wondering..."
 coverImage: "https://images-assets.nasa.gov/image/PIA04495/PIA04495~orig.jpg"
 date: "2025-08-24"
