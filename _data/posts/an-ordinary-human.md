@@ -14,8 +14,6 @@ ogImage:
 
 Who knows what the future holds?
 
-What to do in this life is just…
-
 &nbsp;
 
 Another day went by as i
