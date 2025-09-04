@@ -106,7 +106,7 @@ and everything will be okay...
 
 –––
 
-i was on the roof taking a walk, enjoying the view, and it just hit me like a wave of everything all at once — i was delirious. i almost cried writing that last section.
+i was on the roof taking a walk, enjoying the view, and it just hit me like a wave of everything all at once — i was delirious. i almost cried writing that last section.)
 
 &nbsp;
 
