@@ -12,63 +12,93 @@ ogImage:
 
 &nbsp;
 
-What to do in this life is just...  
+Who knows what the future holds?
 
-Who knows what the future holds?  
-
-Another day went by as i sit here wondering...
+What to do in this life is just…
 
 &nbsp;
 
-At the end of the day, this is all you are –
+Another day went by as i
 
-An ordinary human.
+sit here wondering...
 
-Just as the billions before you who came to exist,
+At the end of the day,
 
-and the billions who are still yet to exist –  
-
-Long after you've ceased to exist...  
-
-Your memories become just another echo lost forever to the mists of time –  
-
-Howling at the endless void of absolute nothingness,  
-
-slowly fading away into that final good night...  
-
-You cannot escape the simple fact that you're human –  
+this is all you are —
 
 An ordinary human.
 
 &nbsp;
 
-We've been here, we'll be here again,
+Just as the billions before you
 
-And again, and again, and again.  
+who came to exist,
 
-That's how it goes...
+and the billions who are still
 
-Until the day we won't.
+yet to exist —
 
-Even we wanted to...
+Long after you've ceased to exist.
 
-That's life.  
+&nbsp;
 
-Life goes on,  
+Your memories become just another echo
+
+lost forever to the mists of time —
+
+Howling at the endless void
+
+of absolute nothingness.
+
+Slowly fading away into
+
+that final good night...
+
+&nbsp;
+
+You cannot escape
+
+a cruel fact that
+
+you're human —
+
+An ordinary human.
+
+&nbsp;
+
+We've been here,
+
+We'll be here again,
+
+and again, and again,
+
+and again.
+
+That's how it goes,
+
+until the day it won't.
+
+Even if you wanted it to...
+
+&nbsp;
+
+That's life.
+
+Life goes on,
 
 Life always goes on...
 
 &nbsp;
 
-Stars will shine,  
+Stars will shine,
 
-Lights will glow,  
+lights will glow,
 
-Time will pass,  
+time will pass,
 
-Nights will come,  
+nights will come,
 
-You'll fall asleep,  
+You'll fall asleep,
 
 and everything will be okay...
 
@@ -76,11 +106,11 @@ and everything will be okay...
 
 –––
 
+i was on the roof taking a walk, enjoying the view, and it just hit me like a wave of everything all at once — i was delirious. i almost cried writing that last section.
+
 &nbsp;
 
-i was on the roof taking a walk and enjoying the view, and it just hit me like a wave of everything all at once – i was delirious. i almost cried writing the last section.
-
-Look at me, comforting myself with words i'd like to hear...
+Look at me, comforting myself with words i'd like to hear...`
 
 &nbsp;
 
@@ -90,8 +120,8 @@ Look at me, comforting myself with words i'd like to hear...
 
 **Sources:**
 
-– Cover image ([*Source*](https://images.nasa.gov/details/PIA04495))
+– Cover image ([_Source_](https://images.nasa.gov/details/PIA04495))
 
 &nbsp;
 
-Until Next Time… ✌️  
+Until Next Time… ✌️
