@@ -4,7 +4,7 @@ excerpt: "Shit happens, life goes on..."
 coverImage: "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000536/GSFC_20171208_Archive_e000536~orig.jpg"
 date: "2025-05-11T03:35:07.322Z"
 author:
-  name: Sam Skywalker
+  name: "Sam Skywalker"
   picture: "https://github.com/skywalkerSam.png"
 ogImage:
   url: "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000536/GSFC_20171208_Archive_e000536~orig.jpg"

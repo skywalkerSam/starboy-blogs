@@ -4,7 +4,7 @@ excerpt: "No destination is final. The journey is all there is, and the only jou
 coverImage: "https://images-assets.nasa.gov/image/NHQ202211040023/NHQ202211040023~orig.jpg"
 date: "2025-05-21T03:35:07.322Z"
 author:
-  name: Sam Skywalker
+  name: "Sam Skywalker"
   picture: "https://github.com/skywalkerSam.png"
 ogImage:
   url: "https://images-assets.nasa.gov/image/NHQ202211040023/NHQ202211040023~orig.jpg"
@@ -82,7 +82,7 @@ Life goes on,
 
 **Sources:**
 
-– Cover image ([*Source*](https://images.nasa.gov/details/NHQ202211040023))
+– Cover image ([*images.nasa.gov*](https://images.nasa.gov/details/NHQ202211040023))
 
 – The World We Knew ([*Album*](https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO?si=dccnCnCmTNKiBiTi3VcNrQ))
 

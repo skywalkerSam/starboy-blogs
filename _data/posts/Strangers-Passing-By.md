@@ -4,7 +4,7 @@ excerpt: "it is in strange moments like these when the entire essence of existen
 coverImage: "https://images-assets.nasa.gov/image/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o~orig.jpg"
 date: "2025-07-21"
 author:
-  name: Sam Skywalker
+  name: "Sam Skywalker"
   picture: "https://github.com/skywalkerSam.png"
 ogImage:
   url: "https://images-assets.nasa.gov/image/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o~orig.jpg"
@@ -80,7 +80,7 @@ Poetry is good.
 
 **Sources:**
 
-– Cover image [(_Source_)](https://images.nasa.gov/details/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o)
+– Cover image [(_images.nasa.gov_)](https://images.nasa.gov/details/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o)
 
 &nbsp;
 

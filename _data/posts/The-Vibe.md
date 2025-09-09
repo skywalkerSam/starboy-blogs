@@ -4,7 +4,7 @@ excerpt: "Going into a night that seems endless..."
 coverImage: "https://images-assets.nasa.gov/image/s31-05-008/s31-05-008~orig.jpg"
 date: "2025-05-15T03:35:07.322Z"
 author:
-  name: Sam Skywalker
+  name: "Sam Skywalker"
   picture: "https://github.com/skywalkerSam.png"
 ogImage:
   url: "https://images-assets.nasa.gov/image/s31-05-008/s31-05-008~orig.jpg"
@@ -92,7 +92,7 @@ So strange this life, just a dream of a dream…
 
 **Sources:**
 
-– Cover image [(*Source*)](https://images.nasa.gov/details/s31-05-008)
+– Cover image [(*images.nasa.gov*)](https://images.nasa.gov/details/s31-05-008)
 
 – Interstellar [(*Soundtrack Album*)](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP?si=wwnMw_gWQZWbLdTZhNWY1A)
 

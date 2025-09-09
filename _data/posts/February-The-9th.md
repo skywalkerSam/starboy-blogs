@@ -4,7 +4,7 @@ excerpt: "One can say that this day right here, February the 9th, was the singul
 coverImage: "https://images-assets.nasa.gov/image/PIA20057/PIA20057~orig.jpg"
 date: "2025-02-09T03:36:39.369Z"
 author:
-  name: Sam Skywalker
+  name: "Sam Skywalker"
   picture: "https://github.com/skywalkerSam.png"
 ogImage:
   url: "https://images-assets.nasa.gov/image/PIA20057/PIA20057~orig.jpg"
@@ -325,7 +325,7 @@ Life goes on,
 
 ## **Sources:**
 
-– Cover image ([*Source*](https://images.nasa.gov/details/PIA20057))  
+– Cover image ([*images.nasa.gov*](https://images.nasa.gov/details/PIA20057))  
 
 – Tom Odell ([*Grow Old with Me*](https://www.youtube.com/watch?v=5rgHYP0dD_4), [*Black Friday*](https://www.youtube.com/watch?v=KMIKzWyZPSA))  
 

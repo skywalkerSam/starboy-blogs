@@ -4,7 +4,7 @@ excerpt: "... Who is Starboy?"
 coverImage: "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001979/GSFC_20171208_Archive_e001979~orig.jpg"
 date: "2025-05-09T03:35:07.322Z"
 author:
-  name: Sam Skywalker
+  name: "Sam Skywalker"
   picture: "https://github.com/skywalkerSam.png"
 ogImage:
   url: "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001979/GSFC_20171208_Archive_e001979~orig.jpg"
@@ -54,7 +54,7 @@ And after all, i am a boy, so there you go... "Starboy".
 
 **Sources:**
 
-– Cover image [(_Source_)](https://images.nasa.gov/details/GSFC_20171208_Archive_e001979)
+– Cover image [(_images.nasa.gov_)](https://images.nasa.gov/details/GSFC_20171208_Archive_e001979)
 
 &nbsp;
 
