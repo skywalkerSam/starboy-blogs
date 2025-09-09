@@ -12,8 +12,47 @@ ogImage:
 
 &nbsp;
 
+Poetry saved me...
 
+&nbsp;
 
+Poetry heals
+
+what is broken.
+
+&nbsp;
+
+it gives you spaces —
+
+to breathe,
+
+to feel,
+
+to be.
+
+&nbsp;
+
+it carves out the
+
+spaces within silences
+
+in which the depth can exist.
+
+&nbsp;
+
+it is simple —
+
+either you get it,
+
+or you don't.
+
+&nbsp;
+
+Life goes on.
+
+Poetry is good.
+
+&nbsp;
 
 –––
 
