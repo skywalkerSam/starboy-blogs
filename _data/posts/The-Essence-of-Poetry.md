@@ -1,10 +1,10 @@
 ---
 title: "The Essence of Poetry"
-excerpt: "Poetry Saved Me..."
+excerpt: "Poetry saved me..."
 coverImage: "https://images.unsplash.com/photo-1757337485693-72c598d87f99"
-date: "2025-09-06"
+date: "2025-08-30"
 author:
-  name: Sam Skywalker
+  name: "Sam Skywalker"
   picture: "https://github.com/skywalkerSam.png"
 ogImage:
   url: "https://images.unsplash.com/photo-1757337485693-72c598d87f99"

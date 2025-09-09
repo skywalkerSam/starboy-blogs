@@ -4,7 +4,7 @@ excerpt: "Who knows what the future holds?"
 coverImage: "https://images-assets.nasa.gov/image/PIA04495/PIA04495~orig.jpg"
 date: "2025-08-24"
 author:
-  name: Sam Skywalker
+  name: "Sam Skywalker"
   picture: "https://github.com/skywalkerSam.png"
 ogImage:
   url: "https://images-assets.nasa.gov/image/PIA04495/PIA04495~orig.jpg"

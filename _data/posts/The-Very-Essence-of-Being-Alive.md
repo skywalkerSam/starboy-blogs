@@ -4,7 +4,7 @@ excerpt: "Astronaut Edward H. White II, pilot for the Gemini-Titan 4 (GT-4) spac
 coverImage: "https://images-assets.nasa.gov/image/S65-29730/S65-29730~orig.jpg"
 date: "2025-05-04T03:35:07.322Z"
 author:
-  name: Sam Skywalker
+  name: "Sam Skywalker"
   picture: "https://github.com/skywalkerSam.png"
 ogImage:
   url: "https://images-assets.nasa.gov/image/S65-29730/S65-29730~orig.jpg"

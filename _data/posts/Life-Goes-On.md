@@ -2,9 +2,9 @@
 title: "Life Goes On,"
 excerpt: "What to do in this life is just…"
 coverImage: "https://images-assets.nasa.gov/image/PIA19952/PIA19952~orig.jpg"
-date: "2025-09-04"
+date: "2025-08-25"
 author:
-  name: Sam Skywalker
+  name: "Sam Skywalker"
   picture: "https://github.com/skywalkerSam.png"
 ogImage:
   url: "https://images-assets.nasa.gov/image/PIA19952/PIA19952~orig.jpg"

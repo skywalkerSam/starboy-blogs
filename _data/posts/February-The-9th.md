@@ -4,7 +4,7 @@ excerpt: "One can say that this day right here, February the 9th, was the singul
 coverImage: "https://images-assets.nasa.gov/image/PIA20057/PIA20057~orig.jpg"
 date: "2025-02-09T03:36:39.369Z"
 author:
-  name: Sam Skywalker
+  name: "Sam Skywalker"
   picture: "https://github.com/skywalkerSam.png"
 ogImage:
   url: "https://images-assets.nasa.gov/image/PIA20057/PIA20057~orig.jpg"

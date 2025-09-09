@@ -4,7 +4,7 @@ excerpt: "No destination is final. The journey is all there is, and the only jou
 coverImage: "https://images-assets.nasa.gov/image/NHQ202211040023/NHQ202211040023~orig.jpg"
 date: "2025-05-21T03:35:07.322Z"
 author:
-  name: Sam Skywalker
+  name: "Sam Skywalker"
   picture: "https://github.com/skywalkerSam.png"
 ogImage:
   url: "https://images-assets.nasa.gov/image/NHQ202211040023/NHQ202211040023~orig.jpg"

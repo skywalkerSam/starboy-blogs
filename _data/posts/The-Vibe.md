@@ -4,7 +4,7 @@ excerpt: "Going into a night that seems endless..."
 coverImage: "https://images-assets.nasa.gov/image/s31-05-008/s31-05-008~orig.jpg"
 date: "2025-05-15T03:35:07.322Z"
 author:
-  name: Sam Skywalker
+  name: "Sam Skywalker"
   picture: "https://github.com/skywalkerSam.png"
 ogImage:
   url: "https://images-assets.nasa.gov/image/s31-05-008/s31-05-008~orig.jpg"
