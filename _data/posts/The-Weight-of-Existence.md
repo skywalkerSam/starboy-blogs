@@ -2,7 +2,7 @@
 title: "The Weight of Existence"
 excerpt: "Just the sheer weight of it all..."
 coverImage: "https://images.unsplash.com/photo-1757352645892-2aaa976f176f"
-date: "2025-09-07"
+date: "2025-09-06"
 author:
   name: "Sam Skywalker"
   picture: "https://github.com/skywalkerSam.png"
