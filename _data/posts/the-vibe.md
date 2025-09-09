@@ -92,7 +92,7 @@ So strange this life, just a dream of a dream…
 
 **Sources:**
 
-– Cover image [(*Source*)](https://images.nasa.gov/details/s31-05-008)
+– Cover image [(*images.nasa.gov*)](https://images.nasa.gov/details/s31-05-008)
 
 – Interstellar [(*Soundtrack Album*)](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP?si=wwnMw_gWQZWbLdTZhNWY1A)
 

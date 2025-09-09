@@ -54,7 +54,7 @@ And after all, i am a boy, so there you go... "Starboy".
 
 **Sources:**
 
-– Cover image [(_Source_)](https://images.nasa.gov/details/GSFC_20171208_Archive_e001979)
+– Cover image [(_images.nasa.gov_)](https://images.nasa.gov/details/GSFC_20171208_Archive_e001979)
 
 &nbsp;
 

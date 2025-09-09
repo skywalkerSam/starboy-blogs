@@ -118,7 +118,7 @@ Life Goes On,
 
 **Sources:**
 
-– Cover image ([_Source_](https://images.nasa.gov/details/PIA19952))
+– Cover image ([_images.nasa.gov_](https://images.nasa.gov/details/PIA19952))
 
 – Life Goes On ([_Playlist_](https://open.spotify.com/playlist/2icM9NXvuOV1NwLVz4F7no?si=836f2cce12304ccf))
 

@@ -80,7 +80,7 @@ Poetry is good.
 
 **Sources:**
 
-– Cover image [(_Source_)](https://images.nasa.gov/details/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o)
+– Cover image [(_images.nasa.gov_)](https://images.nasa.gov/details/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o)
 
 &nbsp;
 

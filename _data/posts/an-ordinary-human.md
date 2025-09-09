@@ -118,7 +118,7 @@ Look at me, comforting myself with words i'd like to hear...`
 
 **Sources:**
 
-— Cover image ([_Source_](https://images.nasa.gov/details/PIA04495))
+— Cover image ([_images.nasa.gov_](https://images.nasa.gov/details/PIA04495))
 
 — An Ordinary Human ([_Playlist_](https://open.spotify.com/playlist/3h7jcANT0d21ySE4I746io?si=38e369fb9cbc419d))
 

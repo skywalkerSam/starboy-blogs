@@ -325,7 +325,7 @@ Life goes on,
 
 ## **Sources:**
 
-– Cover image ([*Source*](https://images.nasa.gov/details/PIA20057))  
+– Cover image ([*images.nasa.gov*](https://images.nasa.gov/details/PIA20057))  
 
 – Tom Odell ([*Grow Old with Me*](https://www.youtube.com/watch?v=5rgHYP0dD_4), [*Black Friday*](https://www.youtube.com/watch?v=KMIKzWyZPSA))  
 

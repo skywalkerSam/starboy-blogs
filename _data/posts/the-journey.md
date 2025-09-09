@@ -82,7 +82,7 @@ Life goes on,
 
 **Sources:**
 
-– Cover image ([*Source*](https://images.nasa.gov/details/NHQ202211040023))
+– Cover image ([*images.nasa.gov*](https://images.nasa.gov/details/NHQ202211040023))
 
 – The World We Knew ([*Album*](https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO?si=dccnCnCmTNKiBiTi3VcNrQ))
 
