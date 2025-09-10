@@ -56,7 +56,9 @@ of their own...
 
 **Sources:**
 
-– Cover image [(_Unsplash_)](https://unsplash.com/photos/ZmuCq75seQY)
+– Cover image [(_Unsplash_)](https://unsplash.com/@skywalkersam)
+
+<!-- – Cover image [(_Unsplash_)](https://unsplash.com/photos/ZmuCq75seQY) -->
 
 &nbsp;
 
