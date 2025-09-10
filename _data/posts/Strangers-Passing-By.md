@@ -2,7 +2,7 @@
 title: "Strangers Passing By…"
 excerpt: "it is in strange moments like these when the entire essence of existence comes alive..."
 coverImage: "https://images-assets.nasa.gov/image/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o/hubble-observes-one-of-a-kind-star-nicknamed-nasty_17754652960_o~orig.jpg"
-date: "2025-07-21"
+date: "2025-08-24"
 author:
   name: "Sam Skywalker"
   picture: "https://github.com/skywalkerSam.png"

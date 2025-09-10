@@ -14,7 +14,9 @@ ogImage:
 
 i can't help but
 
-suddenly i feel like
+suddenly
+
+i feel like
 
 i'm existing
 
@@ -172,7 +174,7 @@ i'd catch a glimpse.
 
 &nbsp;
 
-i'd sit there
+And i'd sit there
 
 trying to put
 
@@ -220,7 +222,7 @@ Nothing matters.
 
 And yet —
 
-We exist.
+Here we exist.
 
 &nbsp;
 
