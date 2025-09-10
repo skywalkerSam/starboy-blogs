@@ -34,8 +34,13 @@ export function PostPreview({
       <div className="mb-4 text-lg">
         <DateFormatter dateString={date} />
       </div>
-      <p className="mb-4 text-lg leading-relaxed">{excerpt}</p>
-      <Avatar name={author.name} picture={author.picture} />
+      <p className="mb-4 text-lg leading-relaxed">
+        {excerpt ?? "Life goes on..."}
+      </p>
+      <Avatar
+        name={author?.name ?? "Sam Skywalker"}
+        picture={author?.picture ?? "https://github.com/skywalkerSam.png"}
+      />
     </div>
   );
 }
