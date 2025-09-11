@@ -62,7 +62,9 @@ Sadness is just another state of mind...
 
 **Sources:**
 
-– Cover image [(_Unsplash_)](https://unsplash.com/photos/sre0VqZnm7w)
+– image by [_Starboy_](https://unsplash.com/@skywalkersam?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [_Unsplash_](https://unsplash.com/photos/sre0VqZnm7w?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+<!-- – Cover image [(_Unsplash_)](https://unsplash.com/photos/sre0VqZnm7w) -->
 
 &nbsp;
 

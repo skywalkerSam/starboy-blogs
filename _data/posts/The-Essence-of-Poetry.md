@@ -60,7 +60,9 @@ Poetry is good.
 
 **Sources:**
 
-– Cover image [(_Unsplash_)](https://unsplash.com/photos/rf2e0-Q1uXU)
+– image by [_Starboy_](https://unsplash.com/@skywalkersam?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [_Unsplash_](https://unsplash.com/photos/rf2e0-Q1uXU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+<!-- – Cover image [(_Unsplash_)](https://unsplash.com/photos/rf2e0-Q1uXU) -->
 
 &nbsp;
 

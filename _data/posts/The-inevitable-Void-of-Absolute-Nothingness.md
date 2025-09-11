@@ -242,7 +242,9 @@ Life goes on…
 
 **Sources:**
 
-– Cover image [(_Unsplash_)](https://unsplash.com/photos/dUvfFjoH_Tk)
+– image by [*Starboy*](https://unsplash.com/@skywalkersam?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [*Unsplash*](https://unsplash.com/photos/dUvfFjoH_Tk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+<!-- – Cover image [(_Unsplash_)](https://unsplash.com/photos/dUvfFjoH_Tk) -->
 
 &nbsp;
 

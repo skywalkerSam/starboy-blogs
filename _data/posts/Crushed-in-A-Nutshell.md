@@ -100,7 +100,9 @@ i've been realizing a lot...
 
 **Sources:**
 
-– Cover image [(_Unsplash_)](https://unsplash.com/photos/Txto31Mk7No)
+– image by [_Starboy_](https://unsplash.com/@skywalkersam?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [_Unsplash_](https://unsplash.com/photos/Txto31Mk7No?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+<!-- – Cover image [(_Unsplash_)](https://unsplash.com/photos/Txto31Mk7No) -->
 
 &nbsp;
 
