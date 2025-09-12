@@ -90,12 +90,10 @@ beyond yourself.
 &nbsp;
 
 You'll find —  
-There is a lot  
-to discover  
+There is a lot to discover  
 in a lifetime,  
-And there is a lot  
-that stretches  
-beyond your own.
+And there is a lot that  
+stretches beyond your own.
 
 &nbsp;
 
@@ -116,13 +114,11 @@ questioning things.
 &nbsp;
 
 For it breaks the myths  
-and only strengthens  
-What is true.
+and only strengthens what is true.
 
 &nbsp;
 
-But only if you dare  
-to question  
+But only if you dare to question  
 the nature of things.
 
 &nbsp;
@@ -145,10 +141,8 @@ has ever been.
 
 &nbsp;
 
-The doubts  
-and the questions  
-exist to keep  
-your opinions  
+The doubts and the questions  
+exist to keep your opinions  
 in check.
 
 &nbsp;
@@ -164,13 +158,12 @@ to be corrected.
 
 Do not try  
 to suppress them,  
-for they are  
-Your guide.
+For they are your guide.
 
 &nbsp;
 
-Change is the only  
-way forward.
+Change —  
+is the only way forward.
 
 &nbsp;
 
@@ -195,8 +188,7 @@ before fixing the world.
 &nbsp;
 
 Trying is the most  
-human thing  
-We can do.
+Human thing we can do.
 
 &nbsp;
 
