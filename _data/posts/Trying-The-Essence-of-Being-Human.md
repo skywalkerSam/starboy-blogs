@@ -123,13 +123,8 @@ This is the only way.
 
 &nbsp;
 
-Openness is intelligence  
-in motion.  
-
-&nbsp;
-
-Closed-mindedness is  
-ignorance solidified.
+Openness is intelligence in motion.  
+Closed-mindedness is ignorance solidified.
 
 &nbsp;
 
@@ -174,13 +169,11 @@ Acceptance is always the hardest part.
 
 &nbsp;
 
-Fix yourself  
-before fixing the world.
+Fix yourself before fixing the world.
 
 &nbsp;
 
-Trying is the most  
-Human thing we can do.
+Trying is the most human thing we can do.
 
 &nbsp;
 
