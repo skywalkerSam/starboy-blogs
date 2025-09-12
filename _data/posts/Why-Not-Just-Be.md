@@ -12,64 +12,38 @@ ogImage:
 
 &nbsp;
 
-it is in our nature,
-
-as humans,
-
-to force our ignorant will
-
-upon the simple
-
-nature of things.
+As humans,  
+it is in our nature  
+to force our ignorant will  
+upon the simple nature of things.
 
 &nbsp;
 
-Once upon a time —
-
-it used to be
-
-a necessity
-
+Once upon a time —  
+it used to be a necessity  
 for our survival.
 
 &nbsp;
 
-Nowadays —
-
-We do not live
-
-in woods & caves.
+But nowadays —  
+We do not live in woods & caves.
 
 &nbsp;
 
-We do it simply
-
-because we can —
-
+We do it simply because we can —  
 because we feel like it.
 
 &nbsp;
 
-Regardless
-
-of the consequences
-
-to others
-
-in our shared existence.
+Regardless of the consequences  
+to others in our shared existence.
 
 &nbsp;
 
-Mortal men —
-
-At the end of their line,
-
-trying to be gods,
-
-ignorant of
-
-the simple fact:
-
+Mortal men —  
+At the end of their line,  
+trying to play god,  
+ignorant of the simple fact:  
 There is no god.
 
 &nbsp;
@@ -78,29 +52,18 @@ Everyone dies.
 
 &nbsp;
 
-Eventually —
-
-Everything
-
-comes to an end.
+Eventually —  
+Everything comes to an end.
 
 &nbsp;
 
-There is no point —
-
-We just do things
-
-to survive.
+There is no point —  
+We just do things to survive.
 
 &nbsp;
 
-All ignorant of
-
-the simple beauty
-
-of a flower's existence
-
-on a tree...
+All ignorant of the simple beauty  
+of a flower's existence on a tree...
 
 &nbsp;
 
