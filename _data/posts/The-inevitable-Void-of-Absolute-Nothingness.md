@@ -27,8 +27,7 @@ of the moment in existence.
 
 &nbsp;
 
-Oh,  
-the sudden urge to just  
+Oh, the sudden urge to just  
 cease to exist in the moment.
 
 &nbsp;
