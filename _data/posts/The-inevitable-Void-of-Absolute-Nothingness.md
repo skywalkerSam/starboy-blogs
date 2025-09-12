@@ -12,8 +12,8 @@ ogImage:
 
 &nbsp;
 
-i can't help but suddenly  
-i feel like  
+i can't help  
+but suddenly i feel like  
 i'm just existing at the edge  
 of some strange apocalypse  
 or something.
