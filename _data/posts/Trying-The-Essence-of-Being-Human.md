@@ -21,8 +21,7 @@ Did you know that?
 
 &nbsp;
 
-No one  
-knows everything.  
+No one knows everything.  
 No one can.
 
 &nbsp;
@@ -41,8 +40,7 @@ to their own opinions.
 
 &nbsp;
 
-The problem  
-gains momentum  
+The problem gains momentum  
 When we stop questioning  
 the opinions we hold.
 
@@ -50,8 +48,7 @@ the opinions we hold.
 
 We get used to talking  
 in front of a wall,  
-So all we can hear  
-is ourselves.
+So all we can hear is ourselves.
 
 &nbsp;
 
@@ -71,8 +68,8 @@ of the world you live in.
 
 &nbsp;
 
-Do not be a slave to  
-your ignorant opinions.  
+Do not be a slave  
+to your ignorant opinions.  
 Question them.
 
 &nbsp;
@@ -84,8 +81,7 @@ As you learn more.
 
 You must try  
 to get past your egos,  
-to see the world  
-beyond yourself.
+to see the world beyond yourself.
 
 &nbsp;
 
@@ -98,7 +94,7 @@ stretches beyond your own.
 &nbsp;
 
 At first —  
-it is unsettling  
+it is unsettling,  
 And that's okay.
 
 &nbsp;
@@ -108,8 +104,7 @@ Just keep going.
 &nbsp;
 
 Never —  
-never stop  
-questioning things.
+never stop questioning things.
 
 &nbsp;
 
@@ -139,14 +134,12 @@ ignorance solidified.
 &nbsp;
 
 it is not easy.  
-Nothing on this planet  
-has ever been.
+Nothing on this planet has ever been.
 
 &nbsp;
 
-The doubts and the questions  
-exist to keep your opinions  
-in check.
+The doubts and the questions exist  
+to keep your opinions in check.
 
 &nbsp;
 
@@ -154,13 +147,11 @@ As Richard Feynman
 Once said —  
 Things must be learned,  
 only to be unlearned again,  
-or, more likely,  
-to be corrected.
+or, more likely, to be corrected.
 
 &nbsp;
 
-Do not try  
-to suppress them,  
+Do not try to suppress them,  
 For they are your guide.
 
 &nbsp;
@@ -180,8 +171,7 @@ And life goes on.
 &nbsp;
 
 Remember —  
-Acceptance is always  
-the hardest part.
+Acceptance is always the hardest part.
 
 &nbsp;
 
