@@ -156,8 +156,7 @@ For they are your guide.
 
 &nbsp;
 
-Change —  
-is the only way forward.
+Change is the only way forward.
 
 &nbsp;
 
