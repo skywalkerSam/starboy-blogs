@@ -12,94 +12,50 @@ ogImage:
 
 &nbsp;
 
-i can't help but
-
-suddenly
-
-i feel like
-
-i'm existing
-
-at the edge
-
-of some strange
-
-apocalypse
-
+i can't help but  
+suddenly i feel like  
+i'm just existing  
+at the edge of some  
+strange apocalypse  
 or something.
 
 &nbsp;
 
-Wherever i look
-
-all i can see is —
-
-The sheer
-
-strangeness
-
-of the moment
-
+Wherever i look,  
+all i can see is —  
+The sheer strangeness  
+of the moment  
 in existence.
 
 &nbsp;
 
-Oh,
-
-the sudden urge
-
-to just
-
-cease to exist
-
+Oh,  
+the sudden urge to just  
+cease to exist  
 in the moment.
 
 &nbsp;
 
-The sheer
-
-strangeness
-
-of it all —
-
+The sheer strangeness  
+of it all —  
 Life at its strangest.
 
 &nbsp;
 
-i've been reasoning
-
-with —
-
-The inevitable
-
-void of
-
-absolute nothingness
-
-since 12021.
+i've been reasoning with  
+the inevitable void of  
+absolute nothingness  
+since 12021\.
 
 &nbsp;
 
-i don't think that
-
-i can escape this —
-
-No one can.
-
-&nbsp;
-
-You can't escape
-
-the simple fact
-
-that —
-
-You're an
-
-ordinary
-
-human being.
-
+i don't think that  
+i can escape this —  
+No one can.  
+You can't escape  
+the simple fact that —  
+You're just an ordinary  
+human being.  
 Everyone is.
 
 &nbsp;
@@ -108,126 +64,83 @@ You can't escape reality.
 
 &nbsp;
 
-Eventually —
-
-Everything
-
-comes to an end.
+Eventually —  
+Everything comes to an end.
 
 &nbsp;
 
-Everyone dies.
-
+Everyone dies.  
 Nothing lasts forever.
 
 &nbsp;
 
-On some strange days
-
-i can feel the abyss
-
+On some strange days,  
+i can feel the abyss  
 creeping in.
 
 &nbsp;
 
-it unsettles me.
-
-For i have
-
-no answers
-
-to why
-
-it itself
-
-even exists
-
+it unsettles me.  
+For i have no answers  
+to why it itself even exists  
 in the first place.
 
 &nbsp;
 
-The dreams
-
-are not what they
-
-used to be —
-
-They've become
-
-stranger than ever.
+The dreams are not  
+what they used to be —  
+They've become stranger than ever.
 
 &nbsp;
 
-All i dream is the void
-
+All i can dream is the void  
 slowly closing in.
 
 &nbsp;
 
-it scares me.
-
-&nbsp;
-
-Sometimes —
-
+it scares me.  
+Sometimes —  
 i'd catch a glimpse.
 
 &nbsp;
 
-And i'd sit there
-
-trying to put
-
-all the pieces
-
-together,
-
-trying to
-
-make sense
-
-of it all,
-
+And i'd sit there  
+trying to put  
+all the pieces together,  
+trying to make some sense  
+of it all,  
 and it doesn't.
 
 &nbsp;
 
-Nothing makes sense,
-
-and it unsettles me.
-
-&nbsp;
-
-i've accepted this —
-
-You can't fight the inevitable.
+Nothing makes sense,  
+And it unsettles me.
 
 &nbsp;
 
-But like i said —
+i've accepted this —  
+You can't fight the inevitable.  
+No one can.
 
-Acceptance
+&nbsp;
 
-is always
-
+But like i said —  
+Acceptance is always  
 the hardest part.
 
 &nbsp;
 
-in the end —
-
+in the end —  
 Nothing matters.
 
 &nbsp;
 
-And yet —
-
+And yet —  
 Here we exist.
 
 &nbsp;
 
-As simple as that,
-
+As simple as that,  
 and as complicated as that.
 
 &nbsp;
@@ -242,7 +155,7 @@ Life goes on…
 
 **Sources:**
 
-– image by [*Starboy*](https://unsplash.com/@skywalkersam?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [*Unsplash*](https://unsplash.com/photos/dUvfFjoH_Tk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+– image by [_Starboy_](https://unsplash.com/@skywalkersam?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [_Unsplash_](https://unsplash.com/photos/dUvfFjoH_Tk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 <!-- – Cover image [(_Unsplash_)](https://unsplash.com/photos/dUvfFjoH_Tk) -->
 
