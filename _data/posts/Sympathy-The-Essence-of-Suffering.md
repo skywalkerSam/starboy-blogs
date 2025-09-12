@@ -2,7 +2,7 @@
 title: "Sympathy — The Essence of Suffering"
 excerpt: "Existence is punishment enough."
 coverImage: "https://images.unsplash.com/photo-1667160044131-75b9171727c9"
-date: "2025-09-12"
+date: "2025-09-13"
 author:
   name: "Sam Skywalker"
   picture: "https://github.com/skywalkerSam.png"
