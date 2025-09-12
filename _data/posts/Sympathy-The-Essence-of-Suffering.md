@@ -1,6 +1,6 @@
 ---
 title: "Sympathy — The Essence of Suffering"
-excerpt: "i have no words."
+excerpt: "Existence is punishment enough."
 coverImage: "https://images.unsplash.com/photo-1667160044131-75b9171727c9"
 date: "2025-09-12"
 author:
@@ -65,11 +65,15 @@ And round, we go...
 
 &nbsp;
 
+———
+
+&nbsp;
+
 Existence is punishment enough.
 
 &nbsp;
 
-–––
+———
 
 &nbsp;
 
