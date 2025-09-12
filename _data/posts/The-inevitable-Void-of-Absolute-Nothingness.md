@@ -12,11 +12,10 @@ ogImage:
 
 &nbsp;
 
-i can't help but  
-suddenly i feel like  
-i'm just existing  
-at the edge of some  
-strange apocalypse  
+i can't help but suddenly  
+i feel like  
+i'm just existing at the edge  
+of some strange apocalypse  
 or something.
 
 &nbsp;
@@ -24,38 +23,35 @@ or something.
 Wherever i look,  
 all i can see is —  
 The sheer strangeness  
-of the moment  
-in existence.
+of the moment in existence.
 
 &nbsp;
 
 Oh,  
 the sudden urge to just  
-cease to exist  
-in the moment.
+cease to exist in the moment.
 
 &nbsp;
 
-The sheer strangeness  
-of it all —  
+The sheer strangeness of it all —  
 Life at its strangest.
 
 &nbsp;
 
 i've been reasoning with  
-the inevitable void of  
-absolute nothingness  
+the inevitable void  
+of absolute nothingness  
 since 12021\.
 
 &nbsp;
 
-i don't think that  
-i can escape this —  
+i don't think that i can escape this —  
 No one can.  
-You can't escape  
-the simple fact that —  
-You're just an ordinary  
-human being.  
+
+&nbsp;
+
+You can't escape the simple fact that —  
+You're just an ordinary human being.  
 Everyone is.
 
 &nbsp;
@@ -75,8 +71,7 @@ Nothing lasts forever.
 &nbsp;
 
 On some strange days,  
-i can feel the abyss  
-creeping in.
+i can feel the abyss creeping in.
 
 &nbsp;
 
@@ -99,16 +94,13 @@ slowly closing in.
 &nbsp;
 
 it scares me.  
-Sometimes —  
-i'd catch a glimpse.
 
 &nbsp;
 
-And i'd sit there  
-trying to put  
+Sometimes, i'd catch a glimpse,  
+And i'd sit there trying to put  
 all the pieces together,  
-trying to make some sense  
-of it all,  
+trying to make sense of it all,  
 and it doesn't.
 
 &nbsp;
@@ -125,8 +117,7 @@ No one can.
 &nbsp;
 
 But like i said —  
-Acceptance is always  
-the hardest part.
+Acceptance is always the hardest part.
 
 &nbsp;
 
