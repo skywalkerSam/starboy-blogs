@@ -68,9 +68,7 @@ it is true —
 
 a big part of you
 
-remains undiscovered
-
-until —
+remains undiscovered until
 
 You meet a certain kind of person.
 
@@ -90,7 +88,7 @@ a crucial part of me for ever...
 
 Lately —
 
-i've been realizing a lot...
+i've been realizing a lot.
 
 &nbsp;
 
