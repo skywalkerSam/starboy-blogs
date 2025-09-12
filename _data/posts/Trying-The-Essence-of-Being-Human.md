@@ -130,6 +130,9 @@ This is the only way.
 
 Openness is intelligence  
 in motion.  
+
+&nbsp;
+
 Closed-mindedness is  
 ignorance solidified.
 
