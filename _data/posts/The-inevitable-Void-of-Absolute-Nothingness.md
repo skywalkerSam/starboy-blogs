@@ -135,7 +135,7 @@ and as complicated as that.
 
 &nbsp;
 
-Life goes on…
+Life goes on,
 
 &nbsp;
 
