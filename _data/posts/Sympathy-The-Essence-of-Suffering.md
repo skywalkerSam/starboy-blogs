@@ -85,6 +85,10 @@ i'm just an ordinary human being like you. Please do not forget: Trying is a cho
 
 &nbsp;
 
+———
+
+&nbsp;
+
 if your actions are hurting people,  
 and you're too arrogant to see,  
 As you choose to remain arrogant,  
@@ -112,7 +116,36 @@ What a wonderful world\!
 
 &nbsp;
 
+Remember — The future generations will be smarter than us, with more of our strength and fewer of our weaknesses. And you'll be judged. Your arrogance will be judged. if all you did was to give in to your ego and insecurities, and hurt innocent people because of it, that would look good. Your arrogance will be a stain on your memory. And even your own sons & daughters, and then their sons & daughters will feel ashamed being called out your name as their father or mother or grandfather or grandmother or whatever. That's how histories work. They judge our actions and determine how we will be remembered, and if at all. And there's not a goddamn thing you can do about it, except to realise this shortcoming now and work on yourself. it is never too late to do the right thing. You are allowed to change as you learn more. That is called being human. Mistakes are inevitable; the ability to rectify those mistakes is where we shine because we try. Trying is the very essence of being human. Trying to fix what's broken. Trying to fix yourself. Trying to do better each time. Trying to be better than you were yesterday, every day. Trying to make this planet beautiful for all things existing. This is the essence of existing. This is the essence of being.
+
+&nbsp;
+
+in time, everything will eventually cease to exist. But that is on the timescale of the universe. As humans, we don't live that long. We're just a mere blip inside a dynamic pattern that exists on this planet. An ordinary human. Nothing more, nothing less. Everything is subject to change. Even this, as we learn more about the universe and our existence within it. But for now, this is what we have to work with. Nothing matters, and yet, here we exist. As simple as that, and as complicated as that. So, as long as we're here existing, might as well make the best of it; learn, adapt, grow, try to understand, be happy, and try to put a smile on whoever happens to wander around your gravity of being. What else is there in this life...?
+
+&nbsp;
+
+So, sleep tight. The truth always prevails because it doesn't need external validation. But arrogance and ego can't exist without external validation. And because everyone dies, and nothing lasts forever. So, at the end of the day, the truth is the only thing that remains. Even after you're long gone. The idea of you continues to exist inside the memories of the ones you happen to be a source of light in this inevitable void of absolute nothingness. The inevitable is inevitable. You can't fight the inevitable. No one can. Acceptance is always the hardest part.
+
+&nbsp;
+
+Fix yourself before fixing the world.
+
+&nbsp;
+
 Existence is punishment enough.
+
+&nbsp;
+
+———
+
+&nbsp;
+
+Stars will shine,  
+lights will glow,  
+time will pass,  
+nights will come,  
+You'll fall asleep,  
+and everything will be okay...  
 
 &nbsp;
 
