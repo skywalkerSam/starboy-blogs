@@ -86,8 +86,8 @@ i'm just an ordinary human being like you. Please do not forget: Trying is a cho
 &nbsp;
 
 if your actions are hurting people,  
-and you're too ignorant to see,  
-As you choose to remain ignorant,  
+and you're too arrogant to see,  
+As you choose to remain arrogant,  
 and a slave to your ignorant opinions.
 
 &nbsp;
