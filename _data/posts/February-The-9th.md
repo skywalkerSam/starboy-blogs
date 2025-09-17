@@ -1,13 +1,13 @@
 ---
 title: "February the 9th,"
 excerpt: "One can say that this day right here, February the 9th, was the singularity from where things started to branch out and expand in ways beyond my wildest dreams…"
-coverImage: "https://images-assets.nasa.gov/image/PIA20057/PIA20057~orig.jpg"
+coverImage: "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001979/GSFC_20171208_Archive_e001979~orig.jpg"
 date: "2025-02-09T03:36:39.369Z"
 author:
   name: "Sam Skywalker"
   picture: "https://github.com/skywalkerSam.png"
 ogImage:
-  url: "https://images-assets.nasa.gov/image/PIA20057/PIA20057~orig.jpg"
+  url: "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001979/GSFC_20171208_Archive_e001979~orig.jpg"
 ---
 
 &nbsp;
@@ -325,7 +325,7 @@ Life goes on,
 
 ## **Sources:**
 
-– Cover image ([*images.nasa.gov*](https://images.nasa.gov/details/PIA20057))  
+– Cover image ([*images.nasa.gov*](https://images.nasa.gov/details/GSFC_20171208_Archive_e001979))  
 
 – Tom Odell ([*Grow Old with Me*](https://www.youtube.com/watch?v=5rgHYP0dD_4), [*Black Friday*](https://www.youtube.com/watch?v=KMIKzWyZPSA))  
 
