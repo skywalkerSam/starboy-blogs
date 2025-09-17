@@ -15,8 +15,8 @@ ogImage:
 “Seeing & The Perception  
 Thinking & Feeling  
 Logic & Emotions  
-intelligence & Wisdom  
 ignorance & Reasoning  
+intelligence & Wisdom  
 Confidence & Arrogance  
 Knowing & Understanding  
 Understanding & Acceptance  
