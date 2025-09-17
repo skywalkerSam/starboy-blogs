@@ -24,9 +24,9 @@ Reasons & Necessity
 Wish & The Will  
 Hope & Despair  
 Despair & Optimism  
-You & Your Existence  
-Existence & The Essence  
 Living & Existing  
+You & Your Existence  
+Existence & the essence of it  
 Love & the idea of it  
 Life & Your interpretation of it.”
 
