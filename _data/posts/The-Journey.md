@@ -1,13 +1,13 @@
 ---
 title: "The Journey..."
 excerpt: "No destination is final. The journey is all there is, and the only journey is the one within."
-coverImage: "https://images-assets.nasa.gov/image/NHQ202211040023/NHQ202211040023~orig.jpg"
+coverImage: "https://images.unsplash.com/photo-1757931765818-37716890895a"
 date: "2025-05-21T03:35:07.322Z"
 author:
   name: "Sam Skywalker"
   picture: "https://github.com/skywalkerSam.png"
 ogImage:
-  url: "https://images-assets.nasa.gov/image/NHQ202211040023/NHQ202211040023~orig.jpg"
+  url: "https://images.unsplash.com/photo-1757931765818-37716890895a"
 ---
 
 &nbsp;
@@ -42,7 +42,7 @@ As much as i am annoyed out of my fucking mind, i can’t help but look at peopl
 
 &nbsp;
 
-Sometimes, when i look out of the window, i see mountains, i see rivers and valleys… i see open grounds as far as the eye can see, and free folks living their traditional yet simple lives on farms beneath the wild mountains, which seems to me like magic… “Born Free”, as a great poet once put it… Truly! No care of the world, no questions, just living somewhere, doing something… i know it isn’t as easy as it all looks, but hey, what is? i would know, i grew up on one. Only at that time, i didn’t know that i was living the time of my life… it was a peaceful life, it really was… 
+Sometimes, when i look out of the window, i see mountains, i see rivers and valleys… i see open grounds as far as the eye can see, and free folks living their traditional yet simple lives on farms beneath the wild mountains, which seems to me like magic… “Born Free”, as a great poet once put it… Truly! No care of the world, no questions, just living somewhere, doing something… i know it isn’t as easy as it all looks, but hey, what is? i would know, i grew up on one. Only at that time, i didn’t know that i was living the time of my life… it was a peaceful life, it really was…
 
 Spending afternoons beneath the big green trees, gentle winds, and unexplainable things…
 
@@ -58,7 +58,7 @@ So, as it seems, in despair, we shall die…
 
 As i look outside the window, hoping to enjoy the view, i, can’t help but feel sad about the nature of existence itself… Just existing for some reason… Wild hills and open fields…
 
-i see this farm beneath the mountain on a fresh morning… a man doing some work on his land with his children around him playing… ducks wandering around… Cows and oxes grazing, and the good old fire cooking… One might see this and feel sad because of the whole poverty aspect of it, but i see this as liberating, “*Born Free*” as i’d like to put it… Of course, it has its own set of problems, but what doesn’t have the good old problems? is your life problem-free? i don’t think so, different kinds of problems, but problems nonetheless. Everything has its own set of perks and disadvantages… Nothing is perfect. That’s the nature of life on this planet. People exist and live in every corner of the world, just going about their lives, doing something, and simply existing for some reason… i see a lot of things that i just can’t explain. No one can.
+i see this farm beneath the mountain on a fresh morning… a man doing some work on his land with his children around him playing… ducks wandering around… Cows and oxes grazing, and the good old fire cooking… One might see this and feel sad because of the whole poverty aspect of it, but i see this as liberating, “_Born Free_” as i’d like to put it… Of course, it has its own set of problems, but what doesn’t have the good old problems? is your life problem-free? i don’t think so, different kinds of problems, but problems nonetheless. Everything has its own set of perks and disadvantages… Nothing is perfect. That’s the nature of life on this planet. People exist and live in every corner of the world, just going about their lives, doing something, and simply existing for some reason… i see a lot of things that i just can’t explain. No one can.
 
 Who’s to say what it all means…?
 
@@ -82,17 +82,19 @@ Life goes on,
 
 **Sources:**
 
-– Cover image ([*images.nasa.gov*](https://images.nasa.gov/details/NHQ202211040023))
+– image by [_Starboy_](https://unsplash.com/@skywalkersam?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [_Unsplash_](https://unsplash.com/photos/bU-6a-Coy54?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
-– The World We Knew ([*Album*](https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO?si=dccnCnCmTNKiBiTi3VcNrQ))
+<!-- – Cover image ([*images.nasa.gov*](https://images.nasa.gov/details/NHQ202211040023)) -->
 
-– it Was a Very Good Year ([*Song*](https://open.spotify.com/track/2ID3rNM3hFBjqrLcV0Wr0y?si=24ed3ec09b394753))
+– The World We Knew ([_Album_](https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO?si=dccnCnCmTNKiBiTi3VcNrQ))
 
-– Everything is on repeat ([*Mix*](https://open.spotify.com/playlist/4xY8EheRhjuEg90yVjnoxS?si=df10615517ea478c))
+– it Was a Very Good Year ([_Song_](https://open.spotify.com/track/2ID3rNM3hFBjqrLcV0Wr0y?si=24ed3ec09b394753))
 
-– Born Free ([*Song*](https://open.spotify.com/track/1axMv0PvvjKVG5MEbJ2Sxo?si=a2d8c27e7f6b4c93))
+– Everything is on repeat ([_Mix_](https://open.spotify.com/playlist/4xY8EheRhjuEg90yVjnoxS?si=df10615517ea478c))
 
-– Teen Dream ([*Album*](https://open.spotify.com/album/6psfQ7hu5uqFLkdtWyygcT?si=cU_VWYFIRze-R-B1A8VQSQ))
+– Born Free ([_Song_](https://open.spotify.com/track/1axMv0PvvjKVG5MEbJ2Sxo?si=a2d8c27e7f6b4c93))
+
+– Teen Dream ([_Album_](https://open.spotify.com/album/6psfQ7hu5uqFLkdtWyygcT?si=cU_VWYFIRze-R-B1A8VQSQ))
 
 &nbsp;
 
