@@ -7,7 +7,7 @@ export function Intro() {
         Blog.
       </h1>
       <h4 className="mt-5 text-center text-lg md:pl-8 md:text-left">
-        A Starboy&apos;s Blog...
+        A Starboy&apos;s Blog
         {/* A statically generated blog example using{" "}
         <a
           href="https://nextjs.org/"
