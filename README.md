@@ -7,13 +7,15 @@
 
 &nbsp;
 
-## Domains
+## 🌐 Domains
 
 [blog.skywalkerSam.dev](https://blog.skywalkersam.dev)
 
 [starboy-blogs.vercel.app](https://starboy-blogs.vercel.app/)
 
-## Sources
+&nbsp;
+
+## 🔗 Sources
 
 - [Blog Starter Kit](https://vercel.com/templates/next.js/blog-starter-kit)
 - Font: [Paprika](https://github.com/etunni/paprika)
