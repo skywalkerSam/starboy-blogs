@@ -1,6 +1,6 @@
 ---
 title: "Balance — The Complexity of Being Human"
-excerpt: "The duality of existence."
+excerpt: "The Duality of Existence."
 coverImage: "https://images.unsplash.com/photo-1757938922866-ddcf1c611db2"
 date: "2025-09-18"
 author:
@@ -36,7 +36,41 @@ Life & Your interpretation of it.”
 
 &nbsp;
 
+"The Duality of Existence."
+
+&nbsp;
+
+–––
+
+&nbsp;
+
+“if there is no point in living,  
+Then there’s no point in dying either .)  
+As i said,  
 The duality of existence.
+
+&nbsp;
+
+Either way, life goes on.  
+Life always goes on.”
+
+&nbsp;
+
+–––
+
+&nbsp;
+
+"As artists,  
+We always try to create  
+something more than ourselves,  
+something bigger than ourselves.  
+
+&nbsp;
+
+Creations are symbiotic in nature.  
+We shape it as much as it shapes us.  
+We do not hold it —  
+it holds us. "  
 
 &nbsp;
 
