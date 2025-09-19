@@ -55,3 +55,7 @@ What the fuck happened back there... i'm exhausted and will rest for now.
 Until Next Time... ✌️
 
 &nbsp;
+
+❤️
+
+&nbsp;

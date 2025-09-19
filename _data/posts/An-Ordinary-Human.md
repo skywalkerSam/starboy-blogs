@@ -125,3 +125,9 @@ Look at me, comforting myself with words i'd like to hear...`
 &nbsp;
 
 Until Next Time… ✌️
+
+&nbsp;
+
+❤️
+
+&nbsp;

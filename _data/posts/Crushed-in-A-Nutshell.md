@@ -107,3 +107,7 @@ i've been realizing a lot.
 Until Next Time... ✌️
 
 &nbsp;
+
+❤️
+
+&nbsp;

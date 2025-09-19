@@ -63,14 +63,14 @@ Life always goes on.”
 "As artists,  
 We always try to create  
 something more than ourselves,  
-something bigger than ourselves.  
+something bigger than ourselves.
 
 &nbsp;
 
 Creations are symbiotic in nature.  
 We shape it as much as it shapes us.  
 We do not hold it —  
-it holds us. "  
+it holds us. "
 
 &nbsp;
 
@@ -85,5 +85,9 @@ it holds us. "
 &nbsp;
 
 Until Next Time... ✌️
+
+&nbsp;
+
+❤️
 
 &nbsp;

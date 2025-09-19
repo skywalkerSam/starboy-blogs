@@ -107,3 +107,7 @@ So strange this life, just a dream of a dream…
 Until Next Time... ✌️
 
 &nbsp;
+
+❤️
+
+&nbsp;

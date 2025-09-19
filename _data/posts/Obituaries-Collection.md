@@ -348,3 +348,7 @@ You don’t have to be strong anymore. You don’t have to pretend you’re not 
 Until Next Time... ✌️
 
 &nbsp;
+
+❤️
+
+&nbsp;

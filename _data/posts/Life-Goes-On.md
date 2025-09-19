@@ -125,3 +125,9 @@ Life Goes On,
 &nbsp;
 
 Until Next Time… ✌️
+
+&nbsp;
+
+❤️
+
+&nbsp;
