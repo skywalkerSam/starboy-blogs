@@ -70,7 +70,7 @@ something bigger than ourselves.
 Creations are symbiotic in nature.  
 We shape it as much as it shapes us.  
 We do not hold it —  
-it holds us. "
+it holds us."
 
 &nbsp;
 
