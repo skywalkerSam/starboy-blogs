@@ -12,39 +12,21 @@ ogImage:
 
 &nbsp;
 
-Story of my life...
+**Story of my life...**
 
 &nbsp;
 
-One day i wake up
-
-And everything feels fine.
-
-&nbsp;
-
-Another day i wake up
-
-And everything is fucked.
-
-&nbsp;
-
-Some days i wake up
-
-And i'm happy for no reason.
-
-&nbsp;
-
-Today i woke up
-
-And i am just sad.
-
-&nbsp;
-
-That's just how it goes.
-
-And tomorrow —
-
-Who knows?
+One day i wake up,  
+and everything feels fine.  
+Another day comes up,  
+and everything seems fucked.  
+Some days i wake up,  
+and i'm happy for no reason.  
+Today i got up,  
+and i’m just sad.  
+That's just how it goes,  
+and tomorrow —  
+Who knows?  
 
 &nbsp;
 
@@ -52,7 +34,7 @@ Who knows?
 
 &nbsp;
 
-Sadness is just another state of mind...
+Playing emotional roulette as it seems, as if i wake up just to suffer. Nevertheless, sadness is just another state of mind, and just like everything else in life, it’ll pass too. Nothing lasts forever.
 
 &nbsp;
 
