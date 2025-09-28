@@ -41,7 +41,7 @@ Closed-mindedness is ignorance solidified."
 
 &nbsp;
 
-“We all have our biases, but we must try to evaluate things based on logic & reasoning. And be able to change our understanding of the world (perspective) based on the conclusions we reach, while still leaving room for uncertainty*"
+“We all have our biases, but we must try to evaluate things based on logic & reasoning. And be able to change our understanding of the world (perspective) based on the conclusions we reach, while still leaving room for uncertainty\*"
 
 &nbsp;
 
@@ -57,7 +57,11 @@ i see someone struggling like i was at the time, and i ask myself what would i s
 
 &nbsp;
 
-Life, eh? What can you do? Oh, the almighty despair… So, as it seems, in despair, we shall die…
+At times, this album (Gortimer Gibbon’s Life On Normal Street) is my escape. A glimpse of what childhood was supposed to be (not really, but kinda ). A childhood that i never had, and probably never will. Some sweet memories to cherish, some simple little dreams, innocent naivety, and optimism beyond logic. Some nice friends, a loving, caring, and understanding family, a little corner of the world that i can be proud to call home… Ah, dreams, eh?
+
+&nbsp;
+
+Life goes on. What can you do? Oh, the almighty despair… So, as it seems, in despair, we shall die…
 
 &nbsp;
 
@@ -65,7 +69,7 @@ Life, eh? What can you do? Oh, the almighty despair… So, as it seems, in despa
 
 &nbsp;
 
-Just be honest, and everything will fall into place. Honesty is quite an addictive drug; once you try it, you're hooked .)  
+Just be honest, and everything will fall into place. Honesty is quite an addictive drug; once you try it, you're hooked .)
 
 &nbsp;
 
@@ -76,6 +80,8 @@ Just be honest, and everything will fall into place. Honesty is quite an addicti
 **Sources:**
 
 – image by [_Phil Hearing_](https://unsplash.com/@philhearing?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [_Unsplash_](https://unsplash.com/photos/person-with-blue-paint-on-hand-cylPETXS7is?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+– Album ([_Gortimer Gibbon’s Life On Normal Street_](https://open.spotify.com/album/7r0ve7ACjQDnFOlDgqcL0R))
 
 &nbsp;
 
