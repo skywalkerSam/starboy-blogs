@@ -1,6 +1,6 @@
 ---
 title: "The Journey..."
-excerpt: "No destination is final. The journey is all there is, and the only journey is the one within."
+excerpt: "No destination is final. No feeling is final. The journey is all there is, and the only journey is the one within."
 coverImage: "https://images.unsplash.com/photo-1757931765818-37716890895a"
 date: "2025-05-21T03:35:07.322Z"
 author:
@@ -11,10 +11,7 @@ ogImage:
 ---
 
 &nbsp;
-
-No destination is final. The journey is all there is, and the only journey is the one within. For one after the other, and round and round we go…
-
-Life goes on,
+No destination is final. No feeling is final. The journey is all there is, and the only journey is the one within. One step after the other, and round and round we go… Life goes on,
 
 &nbsp;
 
