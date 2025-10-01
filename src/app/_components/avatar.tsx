@@ -14,7 +14,7 @@ const Avatar = ({ name, picture }: Props) => {
         <img src={picture} className="mr-4 h-12 w-12 rounded-full" alt={name} />
       </a>
       <a
-        href="https://twitter.com/skywalkerSam_"
+        href="https://github.com/skywalkerSam"
         target="_blank"
         rel="noopener noreferrer"
       >
