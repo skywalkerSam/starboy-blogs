@@ -28,7 +28,7 @@ Yeah, The Beauty & The Beast .) Anyway, you see, humans are evolved to appreciat
 
 &nbsp;
 
-&emsp; if you take pleasure in hurting innocent people, please do yourself, others, and this planet a big favor and just erase yourself from existence, for you do not deserve to be in our shared human existence. There you go, is that the permission you’ve been looking for? Well, go ahead. This is the best advice anyone can ever give you. You’ll not be mourned, and you’ll finally bring some closure to the ones you hurt. This is the best you can do with your life, for you’re unable to bring joy and happiness into the world. All you do is hurt innocent people, leaving them thinking that there is something wrong with the world or themselves, and leaving them with traumatic memories that more often than not become their reason for choosing not to exist anymore. How is that fair?
+&emsp; if you take pleasure in hurting innocent people, please do yourself, others, and the dynamic pattern on this planet a big favor and just erase yourself from existence, for you do not deserve to be in our shared human existence. There you go, is that the permission you’ve been looking for? Well, go ahead. This is the best advice anyone can ever give you. You’ll not be mourned, and you’ll finally bring some closure to the ones you hurt. This is the best you can do with your life, for you’re unable to bring joy and happiness into the world. All you do is hurt innocent people, leaving them thinking that there is something wrong with the world or themselves, and leaving them with traumatic memories that more often than not become their reason for choosing not to exist anymore. How is that fair?
 
 &nbsp;
 
