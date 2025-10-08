@@ -20,7 +20,7 @@ Yeah, The Beauty & The Beast .) Anyway, you see, humans are evolved to appreciat
 
 &nbsp;
 
-&emsp; There is “ugly yet essential.” Like algae, which contributes about 50-70% of the entire planet's oxygen supply. And yet, no one even cares about algae. Which is fine for algae because it doesn’t care either.) it doesn’t need anyone’s validation or gratitude; it will just do what it has always done, which is to produce oxygen and support the continuation of the dynamic pattern on the planet, i.e., what we call life on Earth. And therefore, making our very existence, as you know it, possible. in other words, “wisdom is the ability to look beyond the aesthetics which often tries to mask its brilliance or danger”, for reasons only the almighty evolution knows…
+&emsp; There is “ugly yet essential.” Like algae, which contributes about 50-70% of the entire planet's oxygen supply. And yet, no one even cares about algae. Which is fine for algae because it doesn’t care either.) it doesn’t need anyone’s validation or gratitude; it will just do what it has always done, which is to produce oxygen and support the continuation of the dynamic pattern on the planet, i.e., what we call life on Earth. And therefore, making our very existence, as you know it, possible. in other words, “Wisdom is the ability to look beyond the aesthetics which often tries to mask its brilliance or danger.” For reasons only the almighty evolution knows…
 
 &nbsp;
 
