@@ -18,7 +18,7 @@ as i was looking out of the window.
 The evening feels magical today.  
 Strange, quiet sunsets and gentle winds.  
 Can't help but feel blessed  
-for this moment in existence.
+for this moment in existence...
 
 &nbsp;
 
@@ -28,28 +28,64 @@ the rooftop will have a better view.
 So now, i'm here looking at the sunset  
 as the gentle winds continue to bless me.  
 Listening to this album by Beach House,  
-Teen Dream, trying to put this moment into words.
+Teen Dream, trying to put this moment into words...
 
 &nbsp;
 
 The half moon above my head  
 quietly whispers soft bliss  
 as i move my head upwards  
-to catch a glimpse of its beauty.  
+to catch a glimpse of its natural beauty.  
 Everything seems and feels magical  
 as i look around, finding something,  
-but i do not know what is it that i'm looking for?
+Yet i do not know what is it that i'm looking for...
 
 &nbsp;
 
 i think i can finally say that  
 i'm glad to be alive in this moment.  
 And just like that, i'm happy.  
-Happiness is simple.
+Happiness is simple...
 
 &nbsp;
 
-———
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -61,11 +97,21 @@ _i tried putting this fleeting moment into words, but words aren't enough. Certa
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 **Sources:**
 
-– image by [_Starboy_](https://unsplash.com/@skywalkersam?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [_Unsplash_](https://unsplash.com/photos/JeYpV7D_xFk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+&nbsp;
 
-– Album([_Teen Dream_](https://open.spotify.com/album/6psfQ7hu5uqFLkdtWyygcT))
+&emsp; – image by [_Starboy_](https://unsplash.com/@skywalkersam?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [_Unsplash_](https://unsplash.com/photos/JeYpV7D_xFk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+&emsp; – Album([_Teen Dream_](https://open.spotify.com/album/6psfQ7hu5uqFLkdtWyygcT))
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
