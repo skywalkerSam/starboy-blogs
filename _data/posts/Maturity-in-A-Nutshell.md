@@ -102,7 +102,7 @@ Closed-mindedness is ignorance solidified..."
 
 &nbsp;
 
-_Honesty is quite an addictive drug; Once you try it, you're hooked .)_
+_Honesty is quite an addictive drug; Once you try it, you're hooked.)_
 
 &nbsp;
 
