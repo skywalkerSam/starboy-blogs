@@ -12,7 +12,7 @@ ogImage:
 
 &nbsp;
 
-Yeah, The Beauty & The Beast.) Anyway, you see, humans are evolved to appreciate beauty. And that, my dear friend (because i have none), is a cold fact. Beauty is just something we’re wired to be fond of and to get attracted to. And why wouldn’t we? it’s beautiful. That’s just human. We’re wired that way. Even i don’t appreciate ugliness in the world. Who does? it’s ugly. But listen, my dear friend, there are two kinds of ugliness in this world. One is aesthetic, and the second needs no definition. And that is the duality of existence.
+Yeah, The Beauty & The Beast.) Anyway, you see, humans are evolved to appreciate beauty. And that, my dear friend (because i have none), is a cold fact. Beauty is just something we’re wired to be fond of and to get attracted to. And why wouldn’t we? it’s beautiful. That’s just human. We’re wired that way. Even i don’t appreciate ugliness in the world. Who does? it’s ugly. But listen, my dear friend, there are two kinds of ugliness in this world. One is aesthetic, and the second needs no definition. And that is the duality of existence...
 
 &nbsp;
 
@@ -36,11 +36,11 @@ Yeah, The Beauty & The Beast.) Anyway, you see, humans are evolved to appreciate
 
 &nbsp;
 
-&emsp; The world is rather simple & fragile. Complexity exists, yes. We are complex creatures, yes. But the world is truly held by the simplest of things. One needs love & care. Simple acts of kindness towards one another go a long way. At the end of the day, it is just people living their lives… And it is in the absence of simplicity that complexity emerges. The fragility emerges from the very fact that things are simple and therefore are easily exploited.
+&emsp; The world is rather simple & fragile. Complexity exists, yes. We are complex creatures, yes. But the world is truly held by the simplest of things. One needs love & care. Simple acts of kindness towards one another go a long way. At the end of the day, it is just people living their lives… And it is in the absence of simplicity that complexity emerges. The fragility emerges from the very fact that things are simple and therefore are easily exploited...
 
 &nbsp;
 
-&emsp; The simplicity isn’t a bug; it’s a feature. Life is rather simple: you are born, you live, and you die. That’s it. The dynamic pattern, i.e., the self-perpetuating cycle of life — organisms being born, existing, reproducing, and dying — persists as the system continues to thrive. One exists, but as a tiny part of a larger pattern, just like the cells in our bodies, which make our existence, as you know it, possible, and give rise to a larger, more complex pattern along the way. That’s life, and life goes on. Life always goes on.
+&emsp; The simplicity isn’t a bug; it’s a feature. Life is rather simple: you are born, you live, and you die. That’s it. The dynamic pattern, i.e., the self-perpetuating cycle of life — organisms being born, existing, reproducing, and dying — persists as the system continues to thrive. One exists, but as a tiny part of a larger pattern, just like the cells in our bodies, which make our existence, as you know it, possible, and give rise to a larger, more complex pattern along the way. That’s life, and life goes on. Life always goes on...
 
 &nbsp;
 
