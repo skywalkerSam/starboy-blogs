@@ -12,95 +12,106 @@ ogImage:
 
 &nbsp;
 
-My first two crushes gave me
-
+My first two crushes gave me  
 Language & Computation.
 
 &nbsp;
 
-While i was lost
-
-learning & processing,
-
-The third one came along
-
-showed me beauty —
-
-Like i was seeing it
-
+While i was lost  
+learning & processing,  
+The third one came along  
+and showed me beauty —  
+Like i was seeing it  
 for the first time in my life...
 
 &nbsp;
 
-Then the fourth one came along
-
-and offered me logic.
-
-i remember her saying,
-
-"Mathematics is just Pure."
+And then,  
+The fourth one came along  
+and offered me logic.  
+i remember her saying,  
+"Mathematics is just pure."
 
 &nbsp;
 
-i couldn't understand it then.
-
-because —
-
-i was too deep into
-
-the language,
-
-too obsessed with
-
-computation
-
-And way too mesmerized by
-
-the sheer beauty of it all.
-
-&nbsp;
-
+i couldn't understand it then,  
+For i was in too deep  
+into the language,  
+too obsessed with  
+computation.  
+And way too mesmerized by  
+the sheer beauty of it all.  
 But i do now...
 
 &nbsp;
 
-it is true —
-
-a big part of you
-
-remains undiscovered until
-
+it is true —  
+a big part of you  
+remains undiscovered until,  
 You meet a certain kind of person.
 
 &nbsp;
 
-And because —
-
-You never forget your first.
-
-&nbsp;
-
-The language is now
-
-a crucial part of me for ever...
+And because —  
+You never forget your first.  
+The language is now  
+a crucial part of me for ever.
 
 &nbsp;
 
-Lately —
-
-i've been realizing a lot.
+Lately, i've been realizing a lot…
 
 &nbsp;
 
-–––
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
 **Sources:**
 
-– image by [_Starboy_](https://unsplash.com/@skywalkersam?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [_Unsplash_](https://unsplash.com/photos/Txto31Mk7No?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+&nbsp;
 
-<!-- – Cover image [(_Unsplash_)](https://unsplash.com/photos/Txto31Mk7No) -->
+&emsp; – image by [_Starboy_](https://unsplash.com/@skywalkersam?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [_Unsplash_](https://unsplash.com/photos/Txto31Mk7No?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
