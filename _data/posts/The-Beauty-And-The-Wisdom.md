@@ -1,6 +1,6 @@
 ---
 title: "The Beauty & The Wisdom"
-excerpt: "Yeah, The Beauty & The Beast .)"
+excerpt: "Yeah, The Beauty & The Beast.)"
 coverImage: "https://images.unsplash.com/photo-1759350576052-feb0e07d9282"
 date: "2025-10-08"
 author:
@@ -12,7 +12,7 @@ ogImage:
 
 &nbsp;
 
-Yeah, The Beauty & The Beast .) Anyway, you see, humans are evolved to appreciate beauty. And that, my dear friend (because i have none), is a cold fact. Beauty is just something we’re wired to be fond of and to get attracted to. And why wouldn’t we? it’s beautiful. That’s just human. We’re wired that way. Even i don’t appreciate ugliness in the world. Who does? it’s ugly. But listen, my dear friend, there are two kinds of ugliness in this world. One is aesthetic, and the second needs no definition. And that is the duality of existence.
+Yeah, The Beauty & The Beast.) Anyway, you see, humans are evolved to appreciate beauty. And that, my dear friend (because i have none), is a cold fact. Beauty is just something we’re wired to be fond of and to get attracted to. And why wouldn’t we? it’s beautiful. That’s just human. We’re wired that way. Even i don’t appreciate ugliness in the world. Who does? it’s ugly. But listen, my dear friend, there are two kinds of ugliness in this world. One is aesthetic, and the second needs no definition. And that is the duality of existence.
 
 &nbsp;
 
