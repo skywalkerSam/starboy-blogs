@@ -40,6 +40,10 @@ ogImage:
 
 &nbsp;
 
+&emsp; Arrogance is free, but wisdom demands reasoning, understanding, and acceptance after the fact…
+
+&nbsp;
+
 Remember –  
 “Openness is intelligence in motion,  
 Closed-mindedness is ignorance solidified...”
@@ -88,7 +92,7 @@ Closed-mindedness is ignorance solidified...”
 
 &nbsp;
 
-_Arrogance is free, but wisdom demands reasoning, understanding, and acceptance after the fact…_
+_Oh, the distance between what should be and what is..._
 
 &nbsp;
 
