@@ -1,5 +1,5 @@
 ---
-title: "Maturity – in A Nutshell"
+title: "Maturity – in A Nutshell..."
 excerpt: "Just get started and be honest, and everything will fall into place..."
 coverImage: "https://images.unsplash.com/photo-1607211851821-8be3cd6146f0"
 date: "2025-09-24"

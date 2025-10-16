@@ -1,5 +1,5 @@
 ---
-title: "The inevitable Void of Absolute Nothingness"
+title: "The inevitable Void of Absolute Nothingness..."
 excerpt: "Life goes on…"
 coverImage: "https://images.unsplash.com/photo-1757437773085-5d2716fb19c3"
 date: "2025-09-10"

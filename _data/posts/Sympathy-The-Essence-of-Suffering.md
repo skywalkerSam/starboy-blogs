@@ -1,5 +1,5 @@
 ---
-title: "Sympathy — The Essence of Suffering"
+title: "Sympathy — The Essence of Suffering..."
 excerpt: "Existence is punishment enough."
 coverImage: "https://images.unsplash.com/photo-1667160044131-75b9171727c9"
 date: "2025-09-13"

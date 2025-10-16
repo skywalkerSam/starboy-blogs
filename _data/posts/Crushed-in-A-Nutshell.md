@@ -1,5 +1,5 @@
 ---
-title: "Crushed — in A Nutshell"
+title: "Crushed — in A Nutshell..."
 excerpt: "My first two crushes gave me Language & Computation."
 coverImage: "https://images.unsplash.com/photo-1757337851910-05734efaab72"
 date: "2025-08-27"

@@ -1,5 +1,5 @@
 ---
-title: "Heal – The Essence of Poetry"
+title: "Heal – The Essence of Poetry..."
 excerpt: "Poetry saved me..."
 coverImage: "https://images.unsplash.com/photo-1757337485693-72c598d87f99"
 date: "2025-08-30"

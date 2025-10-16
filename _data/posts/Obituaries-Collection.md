@@ -1,5 +1,5 @@
 ---
-title: "Obituaries Collection"
+title: "Obituaries Collection..."
 excerpt: "Obituaries like these — i think i've lived..."
 coverImage: "https://images.unsplash.com/photo-1757352553103-791670349938"
 date: "2025-09-11"

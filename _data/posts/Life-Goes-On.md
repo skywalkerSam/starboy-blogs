@@ -1,5 +1,5 @@
 ---
-title: "Life Goes On,"
+title: "Life Goes On..."
 excerpt: "What to do in this life is just…"
 coverImage: "https://images-assets.nasa.gov/image/PIA19952/PIA19952~orig.jpg"
 date: "2025-08-21"

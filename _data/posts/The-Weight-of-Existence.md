@@ -1,5 +1,5 @@
 ---
-title: "The Weight of Existence"
+title: "The Weight of Existence..."
 excerpt: "Just the sheer weight of it all..."
 coverImage: "https://images.unsplash.com/photo-1757352645892-2aaa976f176f"
 date: "2025-09-06"

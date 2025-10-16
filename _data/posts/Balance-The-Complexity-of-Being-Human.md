@@ -1,6 +1,6 @@
 ---
-title: "Balance — The Complexity of Being Human"
-excerpt: "The Duality of Existence."
+title: "Balance — The Complexity of Being Human..."
+excerpt: "The Duality of Existence..."
 coverImage: "https://images.unsplash.com/photo-1757938922866-ddcf1c611db2"
 date: "2025-09-18"
 author:
