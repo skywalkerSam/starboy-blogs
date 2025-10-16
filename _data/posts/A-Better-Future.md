@@ -12,7 +12,7 @@ ogImage:
 
 &nbsp;
 
-Oh, the hope for a better future… Everyone needs it, but very few try to think critically about it. The definition of "better" is particularly a tricky one. Better for whom? Just for you? Your family? Your tribe? Or, the Human Civilization? The context matters. Without gathering a deeper insight into the diversity that exists on our planet today, it is all but meaningless. it becomes just another shallow promise that people often make, without ever really meaning a word of it. And on the surface, it seems a very innocent one, too. But what if they actually meant – “Making the world a better place” for themselves? Without ever caring about the cost for others in our shared existence?
+&emsp; Oh, the hope for a better future… Everyone needs it, but very few try to think critically about it. The definition of "better" is particularly a tricky one. Better for whom? Just for you? Your family? Your tribe? Or, the Human Civilization? The context matters. Without gathering a deeper insight into the diversity that exists on our planet today, it is all but meaningless. it becomes just another shallow promise that people often make, without ever really meaning a word of it. And on the surface, it seems a very innocent one, too. But what if they actually meant – “Making the world a better place” for themselves? Without ever caring about the cost for others in our shared existence?
 
 &nbsp;
 
