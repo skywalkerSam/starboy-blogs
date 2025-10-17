@@ -1,6 +1,6 @@
 ---
 title: "The Beauty & The Wisdom..."
-excerpt: "Yeah, The Beauty & The Beast.)"
+excerpt: "Yeah, The Beauty & The Beast .)"
 coverImage: "https://images.unsplash.com/photo-1759350576052-feb0e07d9282"
 date: "2025-10-08"
 author:
@@ -12,15 +12,15 @@ ogImage:
 
 &nbsp;
 
-&emsp; Yeah, The Beauty & The Beast.) Anyway, you see, humans are evolved to appreciate beauty. And that, my dear friend (because i have none), is a cold fact. Beauty is just something we’re wired to be fond of and to get attracted to. And why wouldn’t we? it’s beautiful. That’s just human. We’re wired that way. Even i don’t appreciate ugliness in the world. Who does? it’s ugly. But listen, my dear friend, there are two kinds of ugliness in this world. One is aesthetic, and the second needs no definition. And that is the duality of existence…
+&emsp; Yeah, The Beauty & The Beast .) Anyway, you see, humans are evolved to appreciate beauty. And that, my dear friend (because i have none), is a cold fact. Beauty is just something we’re wired to be fond of and to get attracted to. And why wouldn’t we? it’s beautiful. That’s just human. We’re wired that way. Even i don’t appreciate ugliness in the world. Who does? it’s ugly. But listen, my dear friend, there are two kinds of ugliness in this world. One is aesthetic, and the second needs no definition. And that is the duality of existence…
 
 &nbsp;
 
-&emsp; There is “beautiful yet poisonous.” Yeah, you know what i’m talking about, like the beautiful flowers in the wild that you probably shouldn’t smell or touch. Don’t even think about eating it out.) But not all flowers are poisonous; most are genuinely beautiful and are a sight to admire. it is known; it is best to admire unfamiliar flowers from a distance.) Something to appreciate from afar…
+&emsp; There is “beautiful yet poisonous.” Yeah, you know what i’m talking about, like the beautiful flowers in the wild that you probably shouldn’t smell or touch. Don’t even think about eating it out .) But not all flowers are poisonous; most are genuinely beautiful and are a sight to admire. it is known; it is best to admire unfamiliar flowers from a distance .) Something to appreciate from afar…
 
 &nbsp;
 
-&emsp; There is “ugly yet essential.” Like algae, which contributes about 50-70% of the entire planet's oxygen supply. And yet, no one even cares about algae. Which is fine for algae because it doesn’t care either.) it doesn’t need anyone’s validation or gratitude; it will just do what it has always done, which is to produce oxygen and support the continuation of the dynamic pattern on the planet, i.e., what we call life on Earth. And therefore, making our very existence, as you know it, possible. in other words, “Wisdom is the ability to look beyond the aesthetics which often tries to mask its brilliance or danger.” For reasons only the almighty evolution knows…
+&emsp; There is “ugly yet essential.” Like algae, which contributes about 50-70% of the entire planet's oxygen supply. And yet, no one even cares about algae. Which is fine for algae because it doesn’t care either .) it doesn’t need anyone’s validation or gratitude; it will just do what it has always done, which is to produce oxygen and support the continuation of the dynamic pattern on the planet, i.e., what we call life on Earth. And therefore, making our very existence, as you know it, possible. in other words, “Wisdom is the ability to look beyond the aesthetics which often tries to mask its brilliance or danger.” For reasons only the almighty evolution knows…
 
 &nbsp;
 
