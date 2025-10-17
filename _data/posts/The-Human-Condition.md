@@ -12,7 +12,7 @@ ogImage:
 
 &nbsp;
 
-Blinded by hatred and arrogance, ignorant of the open facts, the inability to reason critically, the unwillingness to accept change, and the simple fact that everything changes and nothing lasts forever…
+&emsp; Blinded by hatred and arrogance, ignorant of the open facts, the inability to reason critically, the unwillingness to accept change, and the simple fact that everything changes and nothing lasts forever…
 
 &nbsp;
 
@@ -24,7 +24,7 @@ Blinded by hatred and arrogance, ignorant of the open facts, the inability to re
 
 &nbsp;
 
-&emsp; The sad part is that you won't even try to understand this if you have no idea about what i'm trying to say, and i don’t even blame you. Because what are we if not complex creatures of simple nature who avoid complicated reasoning, for evolution gave us a short attention span, for the very fact that “Shit happens, and life goes on.” Or, maybe i should do a better job at conveying these ideas…
+&emsp; The sad part is that you won't even try to understand this if you have no idea about to what i'm talking about, and i don’t even blame you. Because what are we if not complex creatures of simple nature who avoid complicated reasoning, for evolution gave us a short attention span, for the very fact that “Shit happens, and life goes on.” Or, maybe i should do a better job at conveying these ideas…
 
 &nbsp;
 
@@ -100,7 +100,128 @@ _i'm exhausted.(_
 
 &nbsp;
 
-———
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+## **Why Not Just Be...?**
+
+&nbsp;
+
+As humans,  
+it is in our nature  
+to force our arrogance  
+upon the simple nature of things.  
+
+&nbsp;
+
+Once upon a time,  
+it used to be a necessity  
+for our survival.  
+But nowadays,  
+We do not live in woods & caves.  
+
+&nbsp;
+
+We do it simply because we can.  
+Because we feel like it.  
+Regardless of the consequences  
+to others in our shared existence.  
+
+&nbsp;
+
+Mortal men,  
+at the end of their line,  
+trying to play god,  
+ignorant of the simple fact:  
+There is no god.  
+Everyone dies.  
+
+&nbsp;
+
+Eventually —  
+Everything comes to an end.  
+There is no point —  
+We just do things to survive.  
+in the meanwhile,  
+We exist.  
+
+&nbsp;
+
+All ignorant of the simple beauty  
+of a flower's existence on a tree...  
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
