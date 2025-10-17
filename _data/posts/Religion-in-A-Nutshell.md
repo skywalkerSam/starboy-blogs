@@ -12,15 +12,15 @@ ogImage:
 
 &nbsp;
 
-The ideal should be one human being to another. Religion, instead of uniting us, is dividing us, not because of its core, but because we're unwilling to look beyond our petty differences. Religion offers false comfort rather than a deeper understanding of things in an ever-changing and ever-evolving world. People commit horrific acts in its name, not because religion itself teaches hate, but because of our own ignorance, arrogance, and gross misinterpretation of some of the texts written in ancient times. That's on us\!
+&emsp; The ideal should be one human being to another. Religion, instead of uniting us, is dividing us, not because of its core, but because we're unwilling to look beyond our petty differences. Religion offers false comfort rather than a deeper understanding of things in an ever-changing and ever-evolving world. People commit horrific acts in its name, not because religion itself teaches hate, but because of our own ignorance, arrogance, and gross misinterpretation of some of the texts written in ancient times. That's on us!
 
 &nbsp;
 
-&emsp; it is in the absence of simple answers, we try to invent our own from our respective little comfort zones, unwilling to look beyond, pulling verses from so-called "sacred texts." in other words, a novel, really. And a novel, no matter how profound, cannot cover the vastness of life. Life is far more vast and complex than any single narrative a story tries to express. Life consists of an infinite number of narratives; a novel is but a fragment of it…
+&emsp; it is in the absence of simple answers, we try to invent our own from our respective little comfort zones, unwilling to look beyond, pulling verses from so-called "sacred texts." in other words, a novel, really. And a novel, no matter how profound, cannot cover the vastness of life. Life is far more complex than any single narrative a story tries to express... Life consists of an infinite number of narratives; a novel is all but a fragment of it…
 
 &nbsp;
 
-&emsp; Take Dune, for instance. It’s just a novel, and yet, one could just as easily build a religion from its pages. That is the danger: people lose themselves in a story because of the comfort it offers. But life is not one story or a singular narrative. It inhabits countless stories throughout all existence with an infinite number of narratives…
+&emsp; Consider the tale of DUNE, for instance. it’s just a novel, and yet, one could just as easily build a religion from its pages. And that is the danger: people lose themselves in a story because of the comfort it offers. But life is not one story or a singular narrative. It inhabits countless stories throughout all existence with an infinite number of narratives…
 
 &nbsp;
 
