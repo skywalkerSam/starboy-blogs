@@ -16,7 +16,7 @@ ogImage:
 
 &nbsp;
 
-&emsp; it is in the absence of simple answers, we try to invent our own from our respective little comfort zones, unwilling to look beyond, pulling verses from so-called "sacred texts." in other words, a novel, really. And a novel, no matter how profound, cannot cover the vastness of life. Life is far more complex than any single narrative a story tries to express... Life consists of an infinite number of narratives; a novel is all but a fragment of it…
+&emsp; it is in the absence of simple answers that we try to invent our own from our respective little comfort zones, unwilling to look beyond, pulling verses from so-called "sacred texts." in other words, a novel, really. And a novel, no matter how profound, cannot cover the vastness of life. Life is far more complex than any single narrative a story tries to express... Life consists of an infinite number of narratives; a novel is all but a fragment of it…
 
 &nbsp;
 
@@ -28,7 +28,7 @@ ogImage:
 
 &nbsp;
 
-&emsp; i think that most people do realize the sad little fact about “god”, it's just that the alternative isn't very comforting. So, they'd rather live a lie... And i don't blame them. A soft delusion that keeps one from staring too long into the abyss...
+&emsp; i think that most people do realize the sad little thing about “god”, it's just that the alternative isn't very comforting. So, they'd rather live a lie... And i don't blame them. A soft delusion that keeps one from staring too long into the abyss...
 
 &nbsp;
 
