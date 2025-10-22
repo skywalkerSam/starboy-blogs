@@ -28,7 +28,11 @@ ogImage:
 
 &nbsp;
 
-&emsp; And here we are, human beings, trying to make sense of our strange little existence on this planet. As Carl Sagan once said, "Knowledge is preferable to ignorance. Better by far to embrace the hard truth, rather than a reassuring fable." it is not easy, nothing on this planet has ever been. But we can try. Trying is the most human thing we can do. Please gather some courage to explore and try to look beyond yourself, for it will be worth it. Understanding is liberating. The more you understand, the more you see, all the more alive you become…
+&emsp; i think that most people do realize the sad little fact about “god”, it's just that the alternative isn't very comforting. So, they'd rather live a lie... And i don't blame them. A soft delusion that keeps one from staring too long into the abyss...
+
+&nbsp;
+
+&emsp; Human beings, trying to make sense of their strange little existence on this planet. As Carl Sagan once said, "Knowledge is preferable to ignorance. Better by far to embrace the hard truth, rather than a reassuring fable." it is not easy, nothing on this planet has ever been. But we can try... Trying is the most human thing we can do. Please gather some courage to explore and try to look beyond yourself, for it will be worth it. Understanding is liberating. The more you see, the more you understand, all the more alive you become…
 
 &nbsp;
 
