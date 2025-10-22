@@ -24,7 +24,7 @@ ogImage:
 
 &nbsp;
 
-&emsp; Once upon a time, we'd look up at the night sky and wonder. it was a time full of uncertainties, and it must have been scary to live through the unknown. Religion emerged to give us a sense of comfort. Even if it was a false one, it served its purpose, offering stability and comfort until better explanations came along. We do not have all the answers yet, but we're way past that point of absolute uncertainty. We have a better understanding of the world around us, and we have better explanations. And yet, many choose to remain stuck in their comfort zones, unwilling to look beyond, afraid of what they might find…
+&emsp; Once upon a time, we'd look up at the night sky and wonder... it was a time full of uncertainties, and it must have been scary to live through the unknown. Religion emerged to give us a sense of comfort. Even if it was a false one, it served its purpose, offering stability and comfort until better explanations came along. We do not have all the answers yet, but we're way past that point of absolute uncertainty. We have a better understanding of the world around us, and we have better explanations. And yet, many choose to remain stuck in their comfort zones, unwilling to look beyond, afraid of what they might find…
 
 &nbsp;
 
