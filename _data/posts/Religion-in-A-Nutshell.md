@@ -20,7 +20,7 @@ ogImage:
 
 &nbsp;
 
-&emsp; Consider the tale of DUNE, for instance. it’s just a novel, and yet, one could just as easily build a religion from its pages. And that is the danger: people lose themselves in a story because of the comfort it offers. But life is not one story or a singular narrative. It inhabits countless stories throughout all existence with an infinite number of narratives…
+&emsp; Consider the tale of DUNE, for instance. it’s just a novel, and yet, one could just as easily build a religion from its pages. And that is the danger: people lose themselves in a story because of the comfort it offers. But life is not one story or a singular narrative. it inhabits countless stories throughout all existence with an infinite number of narratives…
 
 &nbsp;
 
