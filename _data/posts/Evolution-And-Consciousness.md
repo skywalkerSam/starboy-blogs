@@ -12,7 +12,7 @@ ogImage:
 
 &nbsp;
 
-&emsp; The human brain is by far the most complex organ ever to exist; it is the most expensive organ in the human body, as it should be. You are not your brain; you exist inside your brain as an idea, as a concept, as a construct, as a manifestation of itself. You are not it, you’re a part of it…
+&emsp; As a wise man once said, “You are the story brain tells itself." The human brain is by far the most complex organ ever to exist; it is the most expensive organ in the human body, as it should be. You are not your brain; you exist inside your brain as an idea, as a concept, as a construct, as a manifestation of itself. You are not it, you’re a part of it…
 
 &nbsp;
 
@@ -36,7 +36,7 @@ ogImage:
 
 &nbsp;
 
-&emsp; Anyway, the point is that the human brain does a lot of processing behind the scenes that you’re not necessarily aware of. it is known, “you are the average of the people around you.”, Your brain literally responds to what others expect of you (subconsciously.) it is constantly gathering information from multiple endpoints and seeking patterns to make sense of the world around you. it is constantly constructing a grid of perception through which you see and understand the world. A biological model, really, through which it processes the data it gathers, for it has to be efficient like that…
+&emsp; Anyway, the point is that the human brain does a lot of processing behind the scenes that you’re not necessarily aware of. it is known, “You are the average of the people around you.”, Your brain literally responds to what others expect of you (subconsciously.) it is constantly gathering information from multiple endpoints and seeking patterns to make sense of the world around you. it is constantly constructing a grid of perception through which you see and understand the world. A biological model, really, through which it processes the data it gathers, for it has to be efficient like that…
 
 &nbsp;
 
